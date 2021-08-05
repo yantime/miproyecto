@@ -1,0 +1,4 @@
+
+*.pyc
+miproyecto/local_settings.py
+.idea/*
